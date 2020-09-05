@@ -1,10 +1,10 @@
 {
-	"name": "DeadEvil",
-	"short_name": "DeadEvil",
+	"name": "SkullMech",
+	"short_name": "SkullMech",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"background_color": "#ffffff",
 	"icons": [
 		{
